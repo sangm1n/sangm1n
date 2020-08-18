@@ -4,6 +4,9 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com/sangm1n)](https://hits.seeyoufarm.com) 
 [![Repos Badge](https://badges.pufler.dev/repos/sangm1n)](https://badges.pufler.dev)
 
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sangm1n&show_icons=true&theme=highcontrast)
+
 </div>
 
 <!--START_SECTION:waka-->
@@ -63,12 +66,6 @@ JSON                     0 secs              ░░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
-
-<div align=center>
- 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sangm1n&show_icons=true&theme=highcontrast)
-
-</div
  
 <div align=center>
   
