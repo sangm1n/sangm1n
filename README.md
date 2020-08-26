@@ -1,5 +1,4 @@
 
-<div align=center>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com/sangm1n)](https://hits.seeyoufarm.com) 
 [![Repos Badge](https://badges.pufler.dev/repos/sangm1n)](https://badges.pufler.dev)
@@ -9,9 +8,6 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sangm1n&show_icons=true&theme=highcontrast)
 
-</div>
-
-<div align=center>
  
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.2%20million%20lines%20of%20code-blue)
@@ -60,7 +56,6 @@ VS Code                  1 hr 49 mins        ████████░░░�
 
 <!--END_SECTION:waka-->
 
-</div>
 
 <!--
 **sangm1n/sangm1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
