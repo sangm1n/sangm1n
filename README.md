@@ -3,7 +3,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com/sangm1n)](https://hits.seeyoufarm.com) 
 [![Repos Badge](https://badges.pufler.dev/repos/sangm1n)](https://badges.pufler.dev)
 [![Github Badge](http://img.shields.io/badge/-github-black?style=flat-square&logo=github&logoColor=white&link=https:https://github.com/sangm1n/)](https://github.com/sangm1n/)
-[![GraphQL Badge](https://img.shields.io/badge/-TIL-E10098?style=flat-square&logo=GraphQL&logoColor=white&link=https://sangminlog.netlify.com)](https://sangminlog.netlify.com)
+[![Gatsby Badge](https://img.shields.io/badge/-TIL-663399?style=flat-square&logo=Gatsby&logoColor=white&link=https://sangminlog.netlify.com)](https://sangminlog.netlify.com)
 [![Hugo Badge](https://img.shields.io/badge/-techblog-FF4088?style=flat-square&logo=Hugo&logoColor=white&link=https://sangm1n.github.io)](https://sangm1n.github.io)
 [![Mail Badge](http://img.shields.io/badge/-mail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dltkd96als@naver.com)](mailto:dltkd96als@naver.com/)
 
