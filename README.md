@@ -1,4 +1,4 @@
-
+<div text-align="center">
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com/sangm1n)](https://hits.seeyoufarm.com) 
 [![Repos Badge](https://badges.pufler.dev/repos/sangm1n)](https://badges.pufler.dev)
@@ -7,11 +7,11 @@
 [![Hugo Badge](https://img.shields.io/badge/-techblog-FF4088?style=flat-square&logo=Hugo&logoColor=white&link=https://sangm1n.github.io)](https://sangm1n.github.io)
 [![Mail Badge](http://img.shields.io/badge/-mail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dltkd96als@naver.com)](mailto:dltkd96als@naver.com/)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sangm1n&show_icons=true&theme=highcontrast)
-
  
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.2%20million%20lines%20of%20code-blue)
+
+</div>
 
 **I'm a Night 🦉** 
 
