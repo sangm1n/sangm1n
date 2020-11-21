@@ -10,7 +10,11 @@
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.9%20million%20lines%20of%20code-blue)
 -->
 
-[![](https://user-images.githubusercontent.com/46131688/99874056-f9ba1280-2c27-11eb-91ee-4b98263f5c1f.png)](https://sangm1n.github.io/)
+<!-- [![](https://user-images.githubusercontent.com/46131688/99874056-f9ba1280-2c27-11eb-91ee-4b98263f5c1f.png)](https://sangm1n.github.io/) -->
+
+<p align="center">
+  <img onclick="javascript:location.href='https://sangm1n.github.io/';" src="https://user-images.githubusercontent.com/46131688/99874056-f9ba1280-2c27-11eb-91ee-4b98263f5c1f.png" width=700>
+</div>
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
