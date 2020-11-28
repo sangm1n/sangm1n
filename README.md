@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://sangm1n.github.io/">
-    <img src="https://user-images.githubusercontent.com/46131688/99881548-d1e5a180-2c5d-11eb-9a67-97cafab53637.png" width="800">
+    <img src="https://user-images.githubusercontent.com/46131688/100516133-08bf3880-31c5-11eb-97ce-0548a7b3a35a.png" width="500">
   </a>
 </p>
 
