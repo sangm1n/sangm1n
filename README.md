@@ -13,7 +13,7 @@
 <!--  -->
 
 <p align="center">
-  <a href="https://sangm1n.github.io/">
+  <a href="https://sangminlog.tistory.com/">
     <img src="https://user-images.githubusercontent.com/46131688/100516133-08bf3880-31c5-11eb-97ce-0548a7b3a35a.png" width="500">
   </a>
 </p>
